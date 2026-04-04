@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>test</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/Registros.txt</name>
+			<type>1</type>
+			<location>C:/Users/jesus/Downloads/Registros.txt</location>
+		</link>
+		<link>
+			<name>src/test/Usuarios.txt</name>
+			<type>1</type>
+			<location>C:/Users/jesus/Downloads/Usuarios.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
